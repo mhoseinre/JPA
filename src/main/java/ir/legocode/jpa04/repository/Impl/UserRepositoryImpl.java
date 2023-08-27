@@ -1,8 +1,10 @@
-package ir.legocode.jpa04.repository;
+package ir.legocode.jpa04.repository.Impl;
 
 import ir.legocode.jpa04.base.repository.BaseEntiiyRepositoryImpl;
 import ir.legocode.jpa04.base.repository.BaseEntityRepository;
 import ir.legocode.jpa04.domain.User;
+import ir.legocode.jpa04.repository.UserRepository;
+
 import javax.persistence.EntityManager;
 
 
